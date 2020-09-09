@@ -1,6 +1,6 @@
 {
-    "name": "spatie/calendar-links",
-    "description": "Generate add to calendar links for Google, iCal and other calendar systems",
+    "name": "reggieofarrell/calendar-links",
+    "description": "Generate add to calendar links for Google, iCal and other calendar systems.  Forked from spatie/calendar-links",
     "keywords": [
         "spatie",
         "calendar-links"
